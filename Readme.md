@@ -1,4 +1,4 @@
-﻿# Gif-Animate
+# Gif-Animate
 
 Here is a small visual utility, intended for creation
 animated GIF files from a set of screenshots.
@@ -7,6 +7,15 @@ The application is written in C# and requires .Net 4.0
 
 Codeproject article:
 [NGif, Animated GIF Encoder for .NET](http://www.codeproject.com/Articles/11505/NGif-Animated-GIF-Encoder-for-NET)
+
+# Usage
+
+* Run `GifAnimate.exe`
+* Drop source files (I'm using png screenshots made by ShareX);
+* Set `Destination` and `Frame delay`;
+* Press `Create GIF` button.
+
+![Gif-Animate usage](https://github.com/Maximus5/gif-animate/wiki/Gif-Animate.gif)
 
 
 ## NGif License
